@@ -1,0 +1,46 @@
+body{
+    margin: 0px auto;
+    text-align: center;
+    color: #fff;
+    background-image: url(space%20background.png);
+}
+#myGame{
+    border: 1px solid #000;
+    background-image: url(space%20background.png);
+}
+h1{
+    font-size: 40px;
+    background: #000;
+}
+h2{
+    font-size: 30px;
+    font-style: italic;
+    background: #000;
+}
+.start{
+    background-color: #1c9d2b;
+    border: none;
+    color: white;
+    padding: 40px 75px;
+    border-radius: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bold;
+    margin: 60px 0px;
+}
+.start:hover{
+    background-color: #9D1C8E;
+}
+#score{
+    font-size: 20px;
+    margin: 10px 0px;
+}
+p{
+    margin: 50px auto;
+    padding: 10px;
+    text-align: justify;
+    width: 500px;
+    background: #000;
+}
